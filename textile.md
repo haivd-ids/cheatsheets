@@ -100,7 +100,7 @@ one(TM), two(R), three(C).
 ### Horizontal line
 
 ```textile
---
+---
 ```
 
 ### Footnotes
